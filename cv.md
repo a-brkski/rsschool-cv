@@ -17,7 +17,7 @@ I try to continuously learn, improve my skills and enrich my knowledge with dive
 
 I started my professional path as a Sales Development Representative in IT companies. Due to my prior work experience I was able to gain extensive knowledge about various IT concepts and develop my soft skills (practice English, written and oral communication, time management, teamwork). Then I got hired by EPAM Systems as a Service Desk Technician. I was assigned to a position of 1st Line/Help Desk Specialist on a SAP project that focused on DevOps enterprise solutions. During my work I got a chance to familiarize myself with various CI/CD tools such as for example Jenkins, Azure Pipelines, etc. Within our team I acted as a Technical Lead, Knowledge Base Manager and Mentor.
 
-Currently I work as 1st Line/Help Desk Specialist on internal EPAM project. I'm an experienced specialist with good understanding of internal processes responsible for requests fulfillment and involved in close communication with with the end-users and core teams (L2/L3) as well as escalation to the responsible teams 
+Currently I work as 1st Line/Help Desk Specialist on internal EPAM project. I'm an experienced specialist with good understanding of internal processes responsible for requests fulfillment and involved in close communication with with the end-users and core teams (L2/L3) as well as escalation to the responsible teams.
 
 ## Skills
 * HTML

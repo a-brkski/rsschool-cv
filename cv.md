@@ -74,6 +74,7 @@ print("Самое длинное слово: ", sorted(set(filter(lambda x: len(
     - Conducted extensive research about different segments of IT industry
 
 ## Education & Trainings 
+
 Year        | University, Course or Training 
 ----------- | ------------------------------
 2022        |   RS School, JS / FRONT-END. STAGE 0

@@ -74,14 +74,14 @@ print("Самое длинное слово: ", sorted(set(filter(lambda x: len(
     - Conducted extensive research about different segments of IT industry
 
 ## Education & Trainings 
-Year       | University, Course or Training 
------------| ------------------------------
-2022       |   RS School, JS / FRONT-END. STAGE 0
-2022       |   Harvard edX, CS50
-2017 - 2022|   Minsk State Linguistic University
-2021       |   Harvard edX, CS50’s Introduction to Programming with Scratch
-2020       |   EPAM Training Center, Software Testing Introduction
-2019       |   Forte Group, Sales in IT
+Year        | University, Course or Training 
+----------- | ------------------------------
+2022        |   RS School, JS / FRONT-END. STAGE 0
+2022        |   Harvard edX, CS50
+2017 - 2022 |   Minsk State Linguistic University
+2021        |   Harvard edX, CS50’s Introduction to Programming with Scratch
+2020        |   EPAM Training Center, Software Testing Introduction
+2019        |   Forte Group, Sales in IT
 
 ## Languages 
 1. [English C2](https://www.efset.org/cert/7b6fJM) (I work in an international team, communicate with foreign stakeholders, users and clients from different countries. I use English on an everyday basis: writing emails, online calls, chats.)
